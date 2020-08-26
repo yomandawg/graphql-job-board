@@ -1,14 +1,14 @@
 [
   {
     "id": "BJrp-DudG",
-    "email": "alice@facegle.io",
-    "password": "alice123",
+    "email": "a",
+    "password": "a",
     "companyId": "HJRa-DOuG"
   },
   {
     "id": "ry9pbwdOz",
-    "email": "bob@goobook.co",
-    "password": "bob123",
+    "email": "b",
+    "password": "b",
     "companyId": "SJV0-wdOM"
   }
 ]
